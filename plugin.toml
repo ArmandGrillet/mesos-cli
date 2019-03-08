@@ -1,0 +1,7 @@
+schema_version = 1
+name = "mesos-cli"
+
+[[commands]]
+  description = "Mesos commands for your DC/OS cluster"
+  name = "mesos"
+  path = "bin/mesos-cli"
